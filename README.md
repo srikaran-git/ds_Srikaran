@@ -41,15 +41,7 @@ ds_srikaran/
 ## 📑 Report
 - [Final Report (PDF)](./ds_report.pdf) contains summarized insights, methodology, and results.  
 
----
 
-## ⚙️ Setup Instructions
-To run the notebooks:  
-1. Open the provided **Google Colab link(s)** above.  
-2. Make sure you have access to required datasets (download from `csv_files/` or external links).  
-3. Run the cells in order to reproduce results.  
-
----
 
 ## ✅ Notes
 - All code is written in **Python (Google Colab)**.  
